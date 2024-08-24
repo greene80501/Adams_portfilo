@@ -9,7 +9,7 @@ tsParticles.load("tsparticles", {
     },
     "particles": {
         "number": {
-            "value": 8000
+            "value": 1000
         },
         "color": {
             "value": "#ffffff"
